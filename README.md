@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍🎓 About Me:
 🚀 Aspiring Software Engineer specializing in Full Stack Development<br>💻 Skilled in Python, Java, C++, JavaScript, and Dart<br>⚡ Experienced with FastAPI, React.js, Flutter, Firebase, and MongoDB<br>📊 Built projects in Web Development, App Development, and Data Analysis<br>🤝 Active in Hackathons and Collaborative Projects<br>🌱 Passionate about AI, NLP, and building scalable real-world applications
 
 
