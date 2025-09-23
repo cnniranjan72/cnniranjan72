@@ -75,4 +75,4 @@
 ## 🚀 Featured Projects
 - 🌾 [**KisaanMitra**](https://github.com/cnniranjan72/Kisaanmitra-) – Finance tracker for farmers (**MERN + Firebase**)  
 - 📚 [**VisioNarrate**](https://github.com/cnniranjan72/VisioNarrate) – AI-Powered Collaborative Storytelling Platform for Visually impaired  
-- 🤖 [**Autonomous Landmine Detector**](https://github.com/cnniranjan72/Landmine-Detector) – Deep learning + sensor data project  
+- 🤖 [**Autonomous Landmine Detector**](https://github.com/cnniranjan72/Autonomous-Landmine-detector) – Deep learning + sensor data project  
