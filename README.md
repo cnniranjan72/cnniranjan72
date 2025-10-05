@@ -21,7 +21,7 @@
 ---
 
 ## 💻 Tech Stack
-
+---
 ### 📝 Languages  
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -35,6 +35,7 @@
 ### ⚡ Frameworks & Libraries  
 <p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -73,6 +74,9 @@
 ---
 
 ## 🚀 Featured Projects
-- 🌾 [**KisaanMitra**](https://github.com/cnniranjan72/Kisaanmitra-) – Finance tracker and assitant for farmers 
+- 🌾 [**AgriMind**](https://github.com/cnniranjan72/AgriMind) – AI driven assitant for farmeers using ML models
 - 📚 [**VisioNarrate**](https://github.com/cnniranjan72/VisioNarrate) – AI-Powered Collaborative Storytelling Platform for Visually impaired  
-- 🤖 [**Autonomous Landmine Detector**](https://github.com/cnniranjan72/Autonomous-Landmine-detector) – Deep learning + sensor data project  
+- 🤖 [**Autonomous Landmine Detector**](https://github.com/cnniranjan72/Autonomous-Landmine-detector) – Machiene Learning + sensor data project  
+
+---
+>  Follow along as I document my projects and journey.
