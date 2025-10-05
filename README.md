@@ -74,9 +74,10 @@
 ---
 
 ## 🚀 Featured Projects
-- 🌾 [**AgriMind**](https://github.com/cnniranjan72/AgriMind) – AI driven assitant for farmeers using ML models
+- 🌾 [**AgriMind**](https://github.com/cnniranjan72/AgriMind) – AI driven assitant for farmers using ML models
 - 📚 [**VisioNarrate**](https://github.com/cnniranjan72/VisioNarrate) – AI-Powered Collaborative Storytelling Platform for Visually impaired  
 - 🤖 [**Autonomous Landmine Detector**](https://github.com/cnniranjan72/Autonomous-Landmine-detector) – Machiene Learning + sensor data project  
 
 ---
+
 >  Follow along as I document my projects and journey.
