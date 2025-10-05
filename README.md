@@ -4,12 +4,12 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 Computer Science Engineering student @ **AMC Engineering College** (CGPA: 8.5)  
+- 🎓 Computer Science Engineering student @ **AMC Engineering College**
 - 💻 Skilled in **Python, Java, C++, JavaScript, Dart**  
 - ⚡ Experienced with **React.js, Flutter, Firebase, FastAPI, MongoDB**  
-- 📊 Built projects in **Web Development, App Development, and Data Analysis**  
+- 📊 Built projects in **Web Development, App Development, and Machiene Learning**  
 - 🤝 Active in **Hackathons & Collaborative Projects**  
-- 🌱 Passionate about **AI/ML and building scalable real-world applications**
+- 👨‍💻 Passionate about **AI/ML and building scalable real-world applications**
 
 ---
 
@@ -55,6 +55,8 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
