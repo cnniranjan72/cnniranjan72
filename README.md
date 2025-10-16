@@ -5,10 +5,10 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Engineering student @ **AMC Engineering College**
-- 💻 Skilled in **Python, Java, C++, JavaScript, Dart**  
-- ⚡ Experienced with **React.js, Flutter, Firebase, FastAPI, MongoDB**  
-- 📊 Built projects in **Web Development, App Development, and Machiene Learning**  
-- 🤝 Active in **Hackathons & Collaborative Projects**  
+- 💻 Skilled in **Python, Java, C++, JavaScript, Dart**
+- ⚡ Experienced with **React.js, Flutter, Firebase, FastAPI, MongoDB**
+- 📊 Built projects in **Web Development, App Development, and Machine Learning**
+- 🤝 Active in **Hackathons & Collaborative Projects**
 - 👨‍💻 Passionate about **AI/ML and building scalable real-world applications**
 
 ---
@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🔧 Tools & Others  
@@ -55,8 +57,12 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Multipass-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
 ---
@@ -68,7 +74,6 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=cnniranjan72&theme=tokyonight&hide_border=false" height="180"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cnniranjan72&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
@@ -78,7 +83,7 @@
 ## 🚀 Featured Projects
 - 🌾 [**AgriMind**](https://github.com/cnniranjan72/AgriMind) – AI driven assitant for farmers using ML models
 - 📚 [**VisioNarrate**](https://github.com/cnniranjan72/VisioNarrate) – AI-Powered Collaborative Storytelling Platform for Visually impaired  
-- 🤖 [**Autonomous Landmine Detector**](https://github.com/cnniranjan72/Autonomous-Landmine-detector) – Machiene Learning + sensor data project  
+- 🤖 [**Autonomous Landmine Detector**](https://github.com/cnniranjan72/Autonomous-Landmine-detector) – Machine Learning + sensor data project  
 
 ---
 
