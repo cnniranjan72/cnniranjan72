@@ -1,6 +1,6 @@
 <h1 align="center"> Niranjan C N</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+%26+ML+Explorer;Hackathon+Enthusiast;Problem+Solver;Computer+Science+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer;AI+%26+ML+Explorer;Hackathon+Enthusiast;Problem+Solver;Computer+Science+Engineer&center=true&width=500&height=45">
 </p>
 
 ## 🚀 About Me
